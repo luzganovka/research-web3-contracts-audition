@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "fa342e30e83ebff8",
+    "type": "split",
+    "children": [
+      {
+        "id": "75431100e6d6190c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d61a7de85deeca1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "72bdc3f539661b8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68129b3ac0feb8dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1049767a44fef5e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "859dc178dfeff962",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f5be00e5e0d4dd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "t",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36e0dab207e9155e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb4b0d2b9a118cb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ab137ebaa4075b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fd157c375ed1486",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8f46def257a5d61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3380edd199f34b22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eec84bf5d9c227e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "72bdc3f539661b8d",
+  "lastOpenFiles": [
+    "ertyujh.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Threat intelligence.md",
+    "Etherium.md",
+    "Solidity.md",
+    "Военная кафедра.md",
+    "Материалы.md",
+    "Note 2.md",
+    "2024-10-02.md",
+    "Welcome.md",
+    "Привет, МИР!.md"
+  ]
+}
